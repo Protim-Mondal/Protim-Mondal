@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">✨ Protim Mondal ✨</h1>
+
+<p align="center">Hello there! 👋 Welcome to my GitHub profile.</p>
+
 
 - 🔧 I’m currently working on various projects in machine learning and app development for both Android and iOS.
 - 📖 I’m currently learning about cybersecurity and ethical hacking.
